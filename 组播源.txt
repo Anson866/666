@@ -10,7 +10,6 @@ CCTV3综艺,http://www.aiti2199.top:8888/udp/239.49.9.31:6000
 CCTV3综艺,http://www.aiti2199.top:8888/udp/239.49.8.74:8000
 CCTV4中文国际,http://www.aiti2199.top:8888/udp/239.49.8.51:9806
 CCTV4中文国际,http://www.aiti2199.top:8888/udp/239.49.8.131:6000
-CETV4中文国际,http://www.aiti2199.top:8888/udp/239.49.0.125:8000
 CCTV5体育,http://www.aiti2199.top:8888/udp/239.49.9.32:6000
 CCTV5体育,http://www.aiti2199.top:8888/udp/239.49.8.75:8000
 CCTV5体育,http://www.aiti2199.top:8888/udp/239.49.0.206:8000
